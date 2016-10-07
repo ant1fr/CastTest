@@ -1,3 +1,7 @@
+.background {
+    background-color: red;
+}
+
 .logo {
     background-image: url(fip-logo.png);
 }
