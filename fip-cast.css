@@ -1,7 +1,20 @@
 .background {
-    background-color: red;
+  background: url(overlay.png) no-repeat center fixed, url(https://source.unsplash.com/category/nature/daily) no-repeat center fixed;
 }
 
 .logo {
-    background-image: url(fip-logo.png);
+  background-image: url(fip-logo.png);
+}
+
+.progressBar {
+  background-color: rgb(238, 255, 65);
+}
+
+.splash {
+  background-image: url(fip-splash.png);
+}
+
+.watermark {
+  background-image: url(fip-watermark.png);
+  background-size: 57px 48px;
 }
